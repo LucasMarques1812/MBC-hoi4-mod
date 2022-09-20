@@ -83,10 +83,20 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic = 25
-	fascism = 20
+	democratic = 10
+	fascism = 15
 	communism = 5
-	neutrality = 50
+	neutrality = 70
+}
+
+create_country_leader = {
+	name = "Pedro Sunshine Oliveira"
+	desc = ""
+	picture = "Portrait_SUN Pedro ol.dds"
+	ideology = despotism
+	traits = {
+		#
+	}
 }
 
 1939.1.1 = {
@@ -101,15 +111,5 @@ set_popularities = {
 		fascism = 20
 		communism = 5
 		neutrality = 50
-	}
-}
-
-create_country_leader = {
-	name = "Ahmed Ben Bella"
-	desc = ""
-	picture = GFX_portrait_Ahmed_Ben_Bella
-	ideology = despotism
-	traits = {
-		#
 	}
 }
