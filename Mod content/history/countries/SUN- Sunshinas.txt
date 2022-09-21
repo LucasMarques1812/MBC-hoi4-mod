@@ -77,7 +77,7 @@ create_country_leader = {
 	desc = "Will shut up all malhados and destroy communism"
 	picture = "Portrait_SUN Pedro ol.dds"
 	ideology = despotism
-	traits = { dictator
+	traits = { negao
 		#
 	}
 }

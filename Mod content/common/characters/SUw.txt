@@ -1,0 +1,15 @@
+characters={
+	SUN_pedro={
+		name=SUN_CHARACTER_PEDRO
+		portraits={
+			civilian={
+				large="Portrait_SUN Pedro ol.dds"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits={ dictator }
+			expire="1965.1.1.1"
+		}
+	}
+}
