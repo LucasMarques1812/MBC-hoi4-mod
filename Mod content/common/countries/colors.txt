@@ -3,6 +3,12 @@ SUN = {
 	color = rgb { 255 246 12 }
 	color_ui = rgb { 255 246 12 }
 }
+
+HAG = {
+	color = rgb { 10 10 10 }
+	color_ui = rgb { 10 10 10 }
+}
+
 DAM = {
 	color = rgb { 113 255 53 }
 	color_ui = rgb { 113 255 53 }
