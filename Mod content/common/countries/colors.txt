@@ -3,12 +3,42 @@ SUN = {
 	color = rgb { 255 246 12 }
 	color_ui = rgb { 255 246 12 }
 }
-
-HAG = {
-	color = rgb { 10 10 10 }
-	color_ui = rgb { 10 10 10 }
+BOU = {
+	color = rgb { 33 0 127 }
+	color_ui = rgb { 33 0 127 }
 }
-
+RWN = {
+	color = rgb { 255 136 33 }
+	color_ui = rgb { 255 136 33 }
+}
+IDC = {
+	color = rgb { 16 255 0 }
+	color_ui = rgb { 16 255 0 }
+}
+CEM = {
+	color = rgb { 211 246 255 }
+	color_ui = rgb { 211 246 255 }
+}
+TON = {
+	color = rgb { 191 63 255 }
+	color_ui = rgb { 191 63 255 }
+}
+NOK = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}
+MIR = {
+	color = rgb { 255 68 35 }
+	color_ui = rgb { 255 68 35 }
+}
+HAG = {
+	color = rgb { 15 15 15 }
+	color_ui = rgb { 15 15 15 }
+}
+CEA = {
+	color = rgb { 255 114 0 }
+	color_ui = rgb { 255 114 0 }
+}
 DAM = {
 	color = rgb { 113 255 53 }
 	color_ui = rgb { 113 255 53 }
